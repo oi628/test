@@ -92,7 +92,7 @@ button {
 		content: "feliz cumpleaños ";
 	}
 	100% {
-		content: "happy returns of the day ";
+		content: "생일 축하 ";
 	}
 }
 @keyframes rotate {
