@@ -138,7 +138,7 @@ button {
 	width:80%;
 	margin-left:auto;
 	margin-right:auto;
-	background: url("../pic.jpg");
+	background: url("../b.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	/*background: url("../pic.jpg");
@@ -157,7 +157,7 @@ button {
 	width:50%;
 	margin-left:auto;
 	margin-right:auto;
-	background: url("../pic.jpg");
+	background: url("../b.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 75% 25%;
