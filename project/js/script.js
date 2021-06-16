@@ -8,6 +8,6 @@ $('#giftButton').click(function(){
       $("#giftPage").fadeIn(1500);
 	  setTimeout(function() {
 		$('#wishH1').removeClass('animation-start');
-	  },3000);
-    }, 31000);
+	  },1000);
+    }, 30000);
 });
