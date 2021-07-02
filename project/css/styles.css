@@ -133,7 +133,7 @@ button {
 	max-height:80%;
 	margin:0;
 }
-#picDiv>section{
+/*#picDiv>section{
 	height:80%;
 	width:80%;
 	margin-left:auto;
@@ -146,8 +146,8 @@ button {
 	background-clip: content-box;
 	border-radius: 10px;
 	position:relative;
-}
-/*#picDiv>section{
+}*/
+#picDiv>section{
 	height:80%;
 	width:50%;
 	margin-left:auto;
@@ -160,7 +160,7 @@ button {
 	border: 5px solid white;
 	background-clip: content-box;
 	position:relative;
-}*/
+}
 @media (min-width: 768px){
 	#picDiv>section{
 	height:80%;
