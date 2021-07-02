@@ -138,19 +138,29 @@ button {
 	width:80%;
 	margin-left:auto;
 	margin-right:auto;
-	background: url("../b.jpg");
+	background: url("../c.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	/*background: url("../pic.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;*/
 	padding:10px;
 	border: 5px solid white;
 	background-clip: content-box;
 	border-radius: 10px;
 	position:relative;
 }
+/*#picDiv>section{
+	height:80%;
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+	background: url("../c.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 75% 25%;
+	padding:10px;
+	border: 5px solid white;
+	background-clip: content-box;
+	position:relative;
+}*/
 @media (min-width: 768px){
 	#picDiv>section{
 	height:80%;
